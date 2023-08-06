@@ -42,7 +42,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.Map.Entry;
 
-import javax.mail.MessagingException;
+import jakarta.mail.MessagingException;
 
 import com.sun.mail.util.CRLFOutputStream;
 

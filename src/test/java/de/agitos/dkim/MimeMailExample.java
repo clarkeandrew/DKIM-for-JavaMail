@@ -23,10 +23,10 @@ import java.io.ByteArrayInputStream;
 import java.util.Date;
 import java.util.Properties;
 
-import javax.mail.Message;
-import javax.mail.Session;
-import javax.mail.Transport;
-import javax.mail.internet.MailDateFormat;
+import jakarta.mail.Message;
+import jakarta.mail.Session;
+import jakarta.mail.Transport;
+import jakarta.mail.internet.MailDateFormat;
 
 /* 
  * This example signs and sends an existing email with standard DKIM signature configuration.
